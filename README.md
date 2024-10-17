@@ -1,16 +1,42 @@
-# Project-Data-ML
-Ici est une zone de mines des Data Scientist , passionés de la Machine Learning et du Deep Learnig.
+##  Project-Data-ML
+# Prédiction des Objets Dangereux - NASA
 
-""" Description de chaque projet """
+## Description
+Ce projet utilise des techniques de vision par ordinateur et d'apprentissage automatique pour prédire la présence d'objets dangereux dans l'espace, un enjeu important pour les missions de la NASA. Le modèle est conçu pour détecter des objets potentiellement dangereux et évaluer les risques pour les satellites ou les missions spatiales.
 
-""" PROJET 1 """ : Vol Britannique
+## Objectifs
+- Détecter et identifier des objets dangereux (météorites, débris spatiaux).
+- Prédire les trajectoires des objets pour éviter des collisions.
 
-L'objectif global est de predire le comportement des clients lors d'un vol . Si les clients reserveront un vol (1) ou non (0)
- """ Model utilisé """
+## Technologies Utilisées
+- PyTorch
+- Vision par ordinateur (OpenCV)
+- Apprentissage supervisé
+- Bases de données spatiales de la NASA
 
- """"
- BaggingClassifier
- VotiingClassifier
- RandomForestClassifer
- LogisticRegression(Modèle Naives)
- """"
+## Installation
+1. Cloner ce dépôt : 
+   ```bash
+   git clone https://github.com/dona-erick/Projet-Data-ML.git
+
+
+### 2. Projet de Web Scraping
+
+# Web Scraping - Extraction de Données Automatisée
+
+## Description
+Ce projet de web scraping permet d'extraire automatiquement des données de sites web pour effectuer des analyses approfondies. Il est conçu pour récupérer des informations structurées de manière efficace en utilisant des bibliothèques Python comme BeautifulSoup et Scrapy.
+
+## Objectifs
+- Extraire des données à partir de sites de manière automatique.
+- Organiser et analyser les données obtenues.
+
+## Technologies Utilisées
+- Python
+- BeautifulSoup
+- Pandas pour l'analyse des données
+
+## Installation
+1. Cloner ce dépôt : 
+   ```bash
+   git clone https://github.com/username/webscraping-project.git
